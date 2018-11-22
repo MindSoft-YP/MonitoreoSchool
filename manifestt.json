@@ -1,0 +1,64 @@
+{
+    "name": "Monitoreo School",
+    "short_name": "MonitoreoSchool",
+    "description": "Bienvenidos a nuestro programa de monitoreo en las escuelas para evitar y prevenir el bullying",
+    "background_color": "#5499C7",
+    "theme_color": "#424242",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=monitoreoSchool_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./assets/images/mbr-favicon.png",
+            "sizes": "96x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo-128x82-1.png",
+            "sizes": "128x82",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo-14x14.png",
+            "sizes": "14x14",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo2.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo3-230x219-230x219.png",
+            "sizes": "230x219",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo3-230x219.png",
+            "sizes": "230x219",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/logo3.png",
+            "sizes": "230x219",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/mbr-1920x1043.jpg",
+            "sizes": "1920x1043",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/mbr-1920x1040.jpg",
+            "sizes": "1920x1040",
+            "type": "image/png"
+        }
+    ]
+}

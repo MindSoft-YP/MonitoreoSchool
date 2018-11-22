@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monitoreoescuelas",
+  "private_key_id": "c2bc31f1d77d99d8df8569b71c5a69b331b8d7c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCLtDp2VXXioqtR\nqN8hcAKoMJRAOykPecvMtcZaybJdUDKmiL9Y5PPpoBS6Ql1BJxKELw7tRq2ERWGY\n+hQ0pr+39kDXw+SRRuX1KkCiOA84iyj2PR0mhxydsXFgIAYiz73rTSoezBUnY7yL\nvjqNuZetyPv00OMVZt4tyybNn4ml/1BCMPJXUxgW3WaBJU56QCrd+23aiWNs/SKx\nAov4O4ZG3iyDfzfpGqVPg2lojDPYF2dpex0Cl+Hl9egml+VcsevGqaOyF+pjjJWy\nfKncaMY7f4b7kwDyfb2iIRRMA11yowSi1dpbGoH0Pz3xvQexkd6jPnSzanXa9D1o\nQFhvqZeFAgMBAAECggEAAa2Qqt2G6h8gZf2HGec3A58lwLRqigGMAEb0qCAru3GG\n/OIVQ549txd8TZUWJVNbURQhnpmj5Dv9xUZyWgQ2DExxu0W35+4ikp8cd0uracye\nGYBiv7+NXprZgkPliaMreaPhIXfmZHqPCAdTu7e4HyxpU6ed+qKpgNejp9eb4c8F\nM8LZmMxZMaeqWQLzRa9p874edMQlUkllglzv9HvWbzx4ujYPoCCJD1+ZcE2gsrKA\nm+nFt8DxlVp2U105ABN/VZvcKIkzslkIxpcDl9RA0eGBUrIoGCUqMfoi33WfrHr+\n9+gsuQ1Op4wQjizKa6QB7v4rqjMW0DUq8cZADWu1AQKBgQDCvNknyPHWy8dzj1JW\nkxqY/mk5XgXhhT3y9f+41+6lRQDfv3S1SPyuFX47162RIo9QzwHhmjWMAU3xlcZJ\nwbjBpyqH+9mcK+fggSpVokcIO6FR1kdZ3HRnheAtuLcVM8BiTDFi55QvNsxo5z+5\nfEWPQo3pJsmH2vdA/sE5303bBQKBgQC3p0HG4Fo2En1QHa+JLTmGqBk2vvzI7tSp\ntfzQK7I160rbCwHWMwI1DCq/WVgobiKu/ruyRB/F8TdhPTjoh8lHP+aaXRIpuQEx\nHTn8k/ES5EgNuqGGJBlgy98PJGZrOg9sHOyRgNlLeFKoFUWNz3lv2FXrv1WHg6cw\nCDGAxy5ygQKBgE34Tvoe+rWF4dXjDJSdUYjwVDEj9DbXonYlCL55tpN1jWQIxDHR\nh1osQN60/EmgDMHOIHKzy7zCyPJxhXMCnXbr95t6uyZMbgr1rH2c+9PQDEc4BFl2\nayUH9TpZOvTCQ8UXvK5dCnfc+PsHm/woRbGWdDtlzEsY4OalGbiSMBoBAoGBAIe1\nhJmdN4w1ZXxKM2g+jv++P8OApfMk6Ojvnf2GDI5jbFEodRb/YmYos33qW4aku+Rs\nP+6fAIuYj7+/KcpKbKXFxnXSyJUkLIlKe4r1F3NKVSQwASPKkSZCAHaEA1rA8JyH\nUxjCCdAG/a1O6rK72ZSYXAV0wZL96hFIPKxYgy4BAoGBALQ9vDlAPt/4I2/Zc62B\nmN1oSursH2ye0EUQNeP87hkInni49ony1E0zpMDYtlKApvlYaKPxEqhqvZjEEnqA\nlexjDgDIBerqH31ojz7m6eLMr5MaMm7kgoR5H4oBIK9AdCfXqc8b5XD5UQOMLeF5\ntxFZIS9/8pnww9S6Yc6dZHnS\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-quickstart@monitoreoescuelas.iam.gserviceaccount.com",
+  "client_id": "111049323449345561170",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-quickstart%40monitoreoescuelas.iam.gserviceaccount.com"
+}

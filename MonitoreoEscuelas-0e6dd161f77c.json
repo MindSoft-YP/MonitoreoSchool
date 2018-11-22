@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monitoreoescuelas",
+  "private_key_id": "0e6dd161f77c5be73404e5a32d2cfd955a22b53c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCriD6MzndO/VXF\nEjsIkfInWAzIArW7xdkc/lFm7vJ1Ge1e4QRHuOrIgiMmWkG+GDzrS0fFaqtfanEy\nqeBFQx1Kbt7uY+ERSWC2F2BBxD7OWp79wTkfVjLHevMLuspDqnnhJQSvEaiwtkng\n3z7dBGcHvXizlbfSwP569L6QQe6heYS7Cku2GUnICmY6u34qKmG/iWOjAJFNxoR8\nKXzRbkorS6AhT9ypVh4GIXP0AGgTjnGgvNcuUqDzk1ltsbyJveuvB3EOvGdgcq6z\nBr+9+0dpQc6O8rEoL3NYfVRQ0qfVu10WvpwQ0B5+tPz+SSktIdbjibo9bNWU1H3M\nzCoX+qYDAgMBAAECggEACMr9pdspm4d5/5WtKAXPO3wUf6Y/6aW9OPLCenvSOvV+\nyQfQ39pXUrr1EVC8IQH+EXO09KZAra33qoixwessU7X2QJMnJOs1hXASU5y7OXnE\nv65JftU82iPv1JCZMLnK8KMkp9LIanKVu+zFvK+ulmN8jfwlRaz1/piQMjXnBSjv\nZI5LcnaFnVlTv6LvejpVw4ftLwxRpg/8AaxZFElf1mVVd/jludeEKbxKcd6lL2J0\nvECDCcvMjiteN9uacspzUF/vGe3YjQPNvuAefYU+LuAYh3Ktas12HopgwHs9zHyc\na+6ECnHQl175YjbP6Uk8un6QY7bCWrfoD0ssQ4NO8QKBgQDsXJ1VuiBjHsLXc1sw\nqemeLOkKXn81TbMw9w8r2TQ3mf+64Fx4rdblyITzKOuu5gp0WrunOSmbtKQ0UWg8\nHvHdifaB9iA5eTQz/uvsofnKFe7//7jGs4RMMWnPHLv2UX46Lf7nQl9ny8PCPA8u\nknWNQoFyJKG8yjh+ZG+Rt0+mkQKBgQC5yLZ+0rYarcelQtjiKIVYoju1NP9/GatO\nNj64tUl+cuD+pMkLm7FcMFFQ9uPfsg7R5hX340PkmIPmQ8+1MeuOhSNDKDxH5hLy\nvu+NX8UCBZ1NKlt+NmvCTKTaXqXa8/Uh9BHQ2giyCVmlC78OS3ztVLtnIL6/N8lk\njOH7bQHVUwKBgA5KAxD9sZuMbocL6EVm4EK5wFTqJZKZYe3h4b7q4KdD3hv0GGML\nT2SQ3Mi+fpESQyuJmLKhWAybvRmUmlKYJFMaVhbBRG11EFzcWnLxz+IRtWMwmIEa\ntTLOAfGNcSeRAaqOwUxFzPK/dNQ3QUu1evnRPXYjFMwPBZ9Ofxg2FtChAoGAMxX7\nALKmOn3QqSPRiZbE3BN4QaK6ItQHI/GMm7PV6rxiHANp+RQt2AC9S3soO+m1Y4hW\nQByxHZnGoznAUr3QXRdFFAFrWgXs7e0M6B4OiTjMAV0FXZZPWVVD+3wNNUDiBh0c\nDQb3XyVtDhJFzgN57bTf90Ks0N3hNhH7TeyylVsCgYEAlUSj8a1vpOkJ5/hmd1mI\nPA/XKc5NTxG0mhcIuUWANOCLfvTAw/1JouptH1mhKAbbe2XxemdQmEwBdBCk+1Zc\nJzmCFhMIruxRj1hWbgZlNMGFbjkbyS1mppqkiCb4035NSK5qlgodrqalDPuXMduo\n4xy+vGU30PdTjt1Q+ZoF/rY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoreo@monitoreoescuelas.iam.gserviceaccount.com",
+  "client_id": "115418099550130832995",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoreo%40monitoreoescuelas.iam.gserviceaccount.com"
+}
